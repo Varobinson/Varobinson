@@ -1,14 +1,15 @@
 ![](images/banner.png)
-### Hi there 👋
+### Hey Everyone 👋🏽
+
+I'm Vincent, a Front-end Web Dev from Atlanta, GA. Currently, i'm working on React projects and studying to recieve my amazon web devoloper certification. I've been developing for a year plus now and I have to say that I love it! Soving problems has always been a passion of mine, but this is a whole new level. I plan on continuing my education and contributing to the community through open source in anyway that I can! Feel free to start up a chat i'm always open to collaboration! 
 
 ----------------------------------
 
 - 🔭 I’m currently working on a personal React project
 - 🌱 I’m currently learning AWS
 - 🤔 I’m looking for help with job opportunities 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about Atlanta United
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Soccer 
 
 ----------------------------------
@@ -32,11 +33,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
 
 -------------------------------------------
 ### Contacts ☎️
